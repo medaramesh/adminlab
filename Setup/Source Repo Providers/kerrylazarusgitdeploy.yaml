@@ -1,0 +1,11 @@
+harnessApiVersion: '1.0'
+type: GIT
+authorEmailId: kerry.lazarus@crowncastle.com
+authorName: Kerry Lazarus
+branch: main
+commitMessage: '#95758'
+keyAuth: false
+password: safeharness:fh_2Vm30SE6kodCiQhS9bg
+url: https://CrownCastle-DT@dev.azure.com/CrownCastle-DT/DT%20Agile%20Portfolio/_git/zzzzKHLHarnessadminlab
+urlType: REPO
+username: git
