@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: safeharness:iSXOS_0SRSi2_8AD2y0flA
+url: https://github.com/ayyasamr1/Bigdataprojects
+urlType: REPO
+username: ayyasramani@gmail.com
